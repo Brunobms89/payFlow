@@ -1,16 +1,11 @@
+# Projeto criado no evento NWL Together da Rocketseat.
+
 # payflow
 
-A new Flutter project.
+App de gestão do seus boletos:
 
-## Getting Started
+* Adicionar boleto via câmera do celular, lendo código de barras;
+* Adicionar boleto via imagem da galeria;
+* Status do boleto (pagamento efetuado ou não)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
